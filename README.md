@@ -5,7 +5,7 @@ Esta aplicação é destinada a auxiliar pessoas com deficiência visual, utiliz
 ## Tecnologias utilizadas
 <p align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=java,spring,gcp,ts,react" />
+		<img src="https://skillicons.dev/icons?i=java,spring,gcp,ts,react&perline=3" />
 	</a>
 </p>
 
